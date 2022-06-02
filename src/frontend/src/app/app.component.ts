@@ -14,14 +14,11 @@ export class AppComponent {
   secondInput = 0;
   rs$: Observable<number>;
 
-
   constructor(private store: Store) {
     this.rs$ = this.store.select(AppState.result);
   }
 
-
   add() {
-    console.log("hello")
     this.store.dispatch(new Calculate(this.firstInput, this.secondInput, '+'));
   }
 
@@ -40,8 +37,4 @@ export class AppComponent {
   evaluate() {
 
   }
-
-
-
-
 }

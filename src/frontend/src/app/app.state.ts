@@ -6,7 +6,6 @@ export class Calculate {
   constructor(public firstVal: number, public secondVal: number, public operation: string) {}
 }
 
-
 export interface AppStateModel {
   result: number;
 }
