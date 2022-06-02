@@ -8,23 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\n.holzinger\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\l.ecker\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
+      "projectUniqueName": "C:\\Users\\l.ecker\\source\\repos\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
       "projectName": "CalculatorApplication",
-      "projectPath": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
-      "packagesPath": "C:\\Users\\n.holzinger\\.nuget\\packages\\",
-      "outputPath": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\obj\\",
+      "projectPath": "C:\\Users\\l.ecker\\source\\repos\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
+      "packagesPath": "C:\\Users\\l.ecker\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\l.ecker\\source\\repos\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\n.holzinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\l.ecker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -74,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
