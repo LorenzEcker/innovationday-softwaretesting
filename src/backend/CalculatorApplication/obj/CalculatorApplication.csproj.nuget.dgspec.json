@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\2\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj": {}
+    "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\2\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj": {
+    "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\2\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
+        "projectUniqueName": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
         "projectName": "CalculatorApplication",
-        "projectPath": "C:\\Projects\\2\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
-        "packagesPath": "C:\\Users\\s.buchinger\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\2\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\obj\\",
+        "projectPath": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
+        "packagesPath": "C:\\Users\\n.holzinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\s.buchinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\n.holzinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +29,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
