@@ -1,7 +1,6 @@
 import { TestBed } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 import { NgxsModule } from '@ngxs/store';
-im
 
 describe('AppComponent', () => {
   beforeEach(async () => {

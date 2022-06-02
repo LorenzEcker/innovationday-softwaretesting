@@ -9,12 +9,14 @@ import { FormsModule } from '@angular/forms';
 import { NgxsModule } from '@ngxs/store';
 import { AppState } from './app.state';
 import { CommonModule } from '@angular/common';
+import { BrowserModule } from '@angular/platform-browser';
 
 @NgModule({
   declarations: [
     AppComponent
   ],
   imports: [
+    BrowserModule,
     CommonModule,
     MatFormFieldModule,
     MatInputModule,
