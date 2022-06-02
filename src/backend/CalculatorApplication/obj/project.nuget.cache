@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f6aTb4ZxrmI9elBLQYTnaZvTKMQ3OPZD0Tz97uamJ5cL3MmCqf53PUQOFRLqPX7K4rgB4kbUlUflf8HTIMlqZg==",
+  "dgSpecHash": "+WQdhTIS4XBfCE3syQcLFVXQW9CI3pR3WaYiBw3LmY9Mls2jmZ0x/nQ/Kbgk6HVZhfEOLeyWovQseAvuSoATZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\l.ecker\\source\\repos\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\l.ecker\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Project\\innovationday-softwaretesting\\src\\backend\\CalculatorApplication\\CalculatorApplication.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
